@@ -3,8 +3,6 @@ Skyler Badge, Sumit Soman, Jayadeva, Suresh Chandra
 
 This repository includes the codes used in our paper.
 
-The Conformal MCM and its Large Scale variant are added here.
-
 1. Conformal MCM:
   - We use MATLAB R2018b
   - Run the program using MCM_linear_rundata.m
